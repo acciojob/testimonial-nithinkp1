@@ -4,7 +4,7 @@ body{
 	
 }
 #Container{
-	width:85%;
+	
 	display:grid;
 	grid-template-columns:1fr;
 	padding:20px 30px;
@@ -12,7 +12,7 @@ body{
 }
 
 .Testimonial{
-	width:100%;
+	
 	border:2px solid black;
 	padding:20px 20px;
 	background-color:white;
