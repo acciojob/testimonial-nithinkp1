@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+	
+}
+#Container{
+	width:85%;
+	display:grid;
+	grid-template-columns:1fr;
+	padding:20px 30px;
+	grid-gap:20px
+}
+
+.Testimonial{
+	width:100%;
+	border:2px solid black;
+	padding:20px 20px;
+	background-color:white;
+	
+	
+}
+
+.author{
+	text-align:right;
+	font-style:italic;
+}
