@@ -4,4 +4,4 @@
 
 backgroound : `#f5f5f5`
 
-![output](https://storage.googleapis.com/acciojob-open-file-collections/testimonial.png)
+![output](https://github.com/acciojob/testimonial-nithinkp1/releases)
